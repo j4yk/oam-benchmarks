@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"methodWithSingleArg:" : "jr 12/10/2014 17:51:33.738",
+		"methodWithTwo:args:" : "jr 12/10/2014 17:51:56.062",
+		"methodWithoutArgs" : "jr 12/10/2014 17:51:08.333" } }

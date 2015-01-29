@@ -1,0 +1,14 @@
+{
+	"category" : "OaM-Benchmarks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OaMMultipleArgsMethodObject",
+	"pools" : [
+		 ],
+	"super" : "OaMMethodBase",
+	"type" : "normal" }

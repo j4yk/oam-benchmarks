@@ -1,0 +1,3 @@
+as yet unclassified
+benchmarkWithPerformObjectsAsMethods
+	^ self benchmarkWithReceiver: OaMPerformCarrierClass new
