@@ -3,9 +3,13 @@
 		 },
 	"instance" : {
 		"benchmarkAll" : "jr 1/29/2015 12:39:28.789",
+		"benchmarkJITAll" : "jr 2/3/2015 23:48:31.304",
 		"benchmarkWithObjectsAsMethods" : "jr 1/29/2015 12:33:29.88",
+		"benchmarkWithOneArgument" : "jr 2/3/2015 23:46:52.631",
 		"benchmarkWithPerformObjectsAsMethods" : "jr 1/29/2015 12:33:27.005",
 		"benchmarkWithPlainMethodCalls" : "jr 1/29/2015 12:33:33.056",
 		"benchmarkWithReceiver:" : "jr 1/29/2015 12:34:36.767",
 		"benchmarkWithSameClassObjectsAsMethods" : "jr 1/29/2015 12:33:41.487",
+		"benchmarkWithTwoArguments" : "jr 2/3/2015 23:46:45.722",
+		"benchmarkWithoutArguments" : "jr 2/3/2015 23:46:48.971",
 		"setUpObjectsAsMethods" : "jr 12/11/2014 00:27:00.46" } }
