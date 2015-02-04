@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"methodWithSingleArg:" : "jr 12/10/2014 18:13:55.448",
-		"methodWithTwo:args:" : "jr 12/10/2014 18:14:09.347",
-		"methodWithoutArgs" : "jr 12/10/2014 18:13:43.98",
+		"methodWithSingleArg:" : "jr 2/4/2015 01:35:00.929",
+		"methodWithTwo:args:" : "jr 2/4/2015 01:35:06.394",
+		"methodWithoutArgs" : "jr 2/4/2015 01:35:09.79",
 		"run:with:in:" : "jr 12/10/2014 18:13:22.363" } }

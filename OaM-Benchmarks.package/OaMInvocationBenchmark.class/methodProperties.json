@@ -4,6 +4,14 @@
 	"instance" : {
 		"benchmarkAll" : "jr 1/29/2015 12:39:28.789",
 		"benchmarkJITAll" : "jr 2/3/2015 23:48:31.304",
+		"benchmarkMoamWithOneArgument:" : "jr 2/4/2015 01:40:59.114",
+		"benchmarkMoamWithoutArguments:" : "jr 2/4/2015 01:40:15.709",
+		"benchmarkPerformOamWithOneArgument:" : "jr 2/4/2015 01:42:37.798",
+		"benchmarkPerformOamWithoutArguments:" : "jr 2/4/2015 01:43:01.597",
+		"benchmarkPlainWithOneArgument:" : "jr 2/4/2015 01:39:41.742",
+		"benchmarkPlainWithoutArguments:" : "jr 2/4/2015 01:39:32.633",
+		"benchmarkSoamWithOneArgument:" : "jr 2/4/2015 01:41:44.196",
+		"benchmarkSoamWithoutArguments:" : "jr 2/4/2015 01:41:35.932",
 		"benchmarkWithObjectsAsMethods" : "jr 1/29/2015 12:33:29.88",
 		"benchmarkWithOneArgument" : "jr 2/3/2015 23:46:52.631",
 		"benchmarkWithPerformObjectsAsMethods" : "jr 1/29/2015 12:33:27.005",
@@ -12,4 +20,8 @@
 		"benchmarkWithSameClassObjectsAsMethods" : "jr 1/29/2015 12:33:41.487",
 		"benchmarkWithTwoArguments" : "jr 2/3/2015 23:46:45.722",
 		"benchmarkWithoutArguments" : "jr 2/3/2015 23:46:48.971",
-		"setUpObjectsAsMethods" : "jr 12/11/2014 00:27:00.46" } }
+		"moamReceiver" : "jr 2/4/2015 01:40:32.417",
+		"performOamReceiver" : "jr 2/4/2015 01:42:23.204",
+		"plainReceiver" : "jr 2/4/2015 01:38:12.443",
+		"setUpObjectsAsMethods" : "jr 12/11/2014 00:27:00.46",
+		"soamReceiver" : "jr 2/4/2015 01:41:24.339" } }

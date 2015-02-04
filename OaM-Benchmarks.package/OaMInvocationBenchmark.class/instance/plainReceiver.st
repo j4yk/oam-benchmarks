@@ -1,0 +1,3 @@
+plain
+plainReceiver
+	^ OaMPlainMethodsCarrier new
