@@ -2,6 +2,10 @@
 	"class" : {
 		"n" : "jr 1/28/2015 18:07:29.474" },
 	"instance" : {
+		"benchmarkBoth:" : "jr 2/4/2015 22:57:54.471",
+		"benchmarkPlainCalls:" : "jr 2/4/2015 17:47:26.353",
+		"benchmarkWithLayer:" : "jr 2/4/2015 17:46:43.879",
+		"benchmarkWithoutLayer:" : "jr 2/4/2015 17:46:35.253",
 		"fib:" : "jr 1/28/2015 16:25:59.376",
 		"fib: (otherFib)" : "jr 1/28/2015 16:27:20.123",
 		"run" : "jr 1/29/2015 11:39",
